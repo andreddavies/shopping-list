@@ -3,4 +3,4 @@
 This project was created to learn more about Redux.
 This is my second project about Redux.
 
-## The README.md will be uploaded.
+## The README.md will be updated over the time.
