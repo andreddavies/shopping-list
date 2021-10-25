@@ -2,7 +2,7 @@ import './Header.css';
 import React from 'react';
 import { AppBar } from '@material-ui/core';
 
-const Header = () => {
+const Header = props => {
     return (
         <div>
             <AppBar position="static" color="primary">
