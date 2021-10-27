@@ -7,7 +7,7 @@ const Header = props => {
         <div>
             <AppBar position="static" color="primary">
                 <div className="header">
-                    <h2 className="title">Lista de Compras</h2>
+                    <h2>Lista de Compras</h2>
                 </div>
             </AppBar>
         </div>
