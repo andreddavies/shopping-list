@@ -2,7 +2,9 @@ import "./App.css";
 import { MuiThemeProvider } from "@material-ui/core";
 import { createTheme } from "@material-ui/core/styles";
 
+import Main from "./components/Main/Main";
 import Header from "./components/Header/Header";
+import Footer from "./components/Footer/Footer";
 
 const theme = createTheme({
   palette: {
@@ -26,6 +28,8 @@ function App() {
     <MuiThemeProvider theme={theme}>
       <div className="App">
         <Header />
+        <Main />
+        <Footer />
       </div>
     </MuiThemeProvider>
   );
