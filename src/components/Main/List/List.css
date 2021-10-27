@@ -1,0 +1,35 @@
+.title {
+  font-weight: bold;
+  text-align: center;
+}
+
+.list-container {
+  width: 220px;
+  margin: 20px;
+}
+
+.list-card-body {
+  width: 100%;
+  font-weight: 400;
+  text-align: center;
+}
+
+.list-card-item {
+  display: flex;
+  font-size: 15px;
+  align-items: center;
+}
+
+.list-card-item svg {
+  margin-right: 10px;
+}
+
+.card-foo {
+  width: 100%;
+  display: flex;
+  color: #757575;
+  font-size: 13.5px;
+  font-weight: bolder;
+  align-items: center;
+  justify-content: space-around;
+}
