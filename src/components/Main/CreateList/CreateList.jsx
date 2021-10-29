@@ -1,6 +1,6 @@
 import React from 'react';
 
-import CustomCard from '../CustomCard/CustomCard';
+import CustomCard from '../CustomCard/CustomCard.tsx';
 
 import './CreateList.css';
 

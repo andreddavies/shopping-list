@@ -1,6 +1,6 @@
 import React from 'react';
 
-const ListFooter = (props) => {
+const CardListFooter = (props) => {
     return (
         <div className={props.setFooterClassName}>
             <p>10/26/21</p>
@@ -9,4 +9,4 @@ const ListFooter = (props) => {
     );
 };
 
-export default ListFooter;
+export default CardListFooter;

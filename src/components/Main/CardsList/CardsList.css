@@ -3,24 +3,24 @@
   text-align: center;
 }
 
-.list-container {
+.card-list-container {
   width: 220px;
   margin: 20px;
 }
 
-.list-card-body {
+.card-list-card-body {
   width: 100%;
   font-weight: 400;
   text-align: center;
 }
 
-.list-card-item {
+.card-list-card-item {
   display: flex;
   font-size: 15px;
   align-items: center;
 }
 
-.list-card-item svg {
+.card-list-card-item svg {
   margin-right: 10px;
 }
 
